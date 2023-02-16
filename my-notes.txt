@@ -1,0 +1,13 @@
+Basic commands
+mkdir --create a file
+cd --change directory
+cd .. --go to the parent directory
+mv --move documents
+cp -- copy documents
+rm -- remove documents
+ls -- show the list
+explorer.exe . --open folder
+cd ~ -- go to home directory
+-a -- including . documents
+-l --long information
+-F -- fancy
